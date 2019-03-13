@@ -1,4 +1,19 @@
 {
-  "id": 1,
-  "title": "hello"
+  "posts": [
+    {
+       "title": "Star Wars: The Last Jedi",
+        "image": "https://api.androidhive.info/json/movies/starwars.jpg",
+        "price": "₹ 160"
+    },
+    {
+       "title": "S2",
+        "image": "https://api.androidhive.info/json/movies/starwars.jpg",
+        "price": "₹ 160"
+    },
+    {
+       "title": "2",
+        "image": "https://api.androidhive.info/json/movies/starwars.jpg",
+        "price": "₹ 160"
+    }
+  ]
 }
