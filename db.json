@@ -1,4 +1,5 @@
-{
+
+[{
         "title": "Star Wars: The Last Jedi",
         "image": "https://api.androidhive.info/json/movies/starwars.jpg",
         "price": "₹ 160"
@@ -58,4 +59,4 @@
         "image": "https://api.androidhive.info/json/movies/lady_bird.jpg",
         "price": "₹ 80"
     }
- 
+    ]
