@@ -1,11 +1,11 @@
 {
-        "title": "Star Wars: The Last Jedi",
-        "image": "https://api.androidhive.info/json/movies/starwars.jpg",
-        "price": "₹ 160"
-    },
-{
-        "title": "Shape Of Water",
-        "image": "https://api.androidhive.info/json/movies/shape_of_water.jpg",
-        "price": "₹ 130"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
     }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
